@@ -1,0 +1,44 @@
+ 
+# Ignore Maven target directory
+target/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore IDE specific files
+.idea/
+*.iml
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore build files
+*.jar
+*.war
+
+# Ignore configuration files
+*.properties
+
+# Ignore the .env file
+.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IntelliJ IDEA project files
+out/
+
+# Ignore compiled class files
+*.class
+
+# Ignore IntelliJ IDE specific files
+*.ipr
+*.iws
+*.idea/
